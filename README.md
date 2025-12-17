@@ -28,10 +28,6 @@ El proyecto utiliza propiedades de tipo `required` para garantizar la integridad
 2.  **Medico**: Posee `Nombre` y `Especialidad`.
 3.  **Turno**: Funciona como la entidad central que vincula los IDs de los objetos anteriores y contiene las referencias de objeto completas.
 
-##  Instalación y Ejecución
 
-Para ejecutar este proyecto de forma local, sigue estos pasos:
 
-1. **Clonar el repositorio:**
-   ```bash
-   git clone [https://github.com/tu-usuario/nombre-del-repo.git](https://github.com/tu-usuario/nombre-del-repo.git)
+
