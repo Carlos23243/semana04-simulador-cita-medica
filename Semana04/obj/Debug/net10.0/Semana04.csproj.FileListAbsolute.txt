@@ -1,0 +1,14 @@
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\Semana04\obj\Debug\net10.0\Semana04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\Semana04\obj\Debug\net10.0\Semana04.AssemblyInfoInputs.cache
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\Semana04\obj\Debug\net10.0\Semana04.AssemblyInfo.cs
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\Semana04\obj\Debug\net10.0\Semana04.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\Semana04\bin\Debug\net10.0\Semana04.exe
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\Semana04\bin\Debug\net10.0\Semana04.deps.json
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\Semana04\bin\Debug\net10.0\Semana04.runtimeconfig.json
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\Semana04\bin\Debug\net10.0\Semana04.dll
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\Semana04\bin\Debug\net10.0\Semana04.pdb
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\Semana04\obj\Debug\net10.0\Semana04.dll
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\Semana04\obj\Debug\net10.0\refint\Semana04.dll
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\Semana04\obj\Debug\net10.0\Semana04.pdb
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\Semana04\obj\Debug\net10.0\Semana04.genruntimeconfig.cache
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\Semana04\obj\Debug\net10.0\ref\Semana04.dll
